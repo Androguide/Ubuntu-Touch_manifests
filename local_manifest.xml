@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+     <remote name="github" fetch="git://github.com" />
+     <project path="device/samsung/i9300" name="Androguide/android_device_samsung_i9300" remote="github" revision="master"/>
+     <project path="kernel/samsung/smdk4412" name="Androguide/android_kernel_samsung_smdk4412" remote="github" revision="master"/>
+     <project path="device/samsung/smdk4412-common" name="Androguide/android_device_samsung_smdk4412-common" remote="github" revision="master"/>
+     <project name="Androguide/android_vendor_samsung" path="vendor/samsung" remote="github" revision="master" />
+     <project path="hardware/samsung" name="Ubuntu-i9100/android_hardware_samsung" remote="github" revision="phablet-10.1"/>
+   </manifest>
